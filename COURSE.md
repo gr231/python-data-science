@@ -35,13 +35,30 @@ Day 2:
 
 ## Course description
 
+This course will cover concepts and strategies for working more effectively with Python, with the aim of writing reusable code, as well as how to manipulate and visualise data effectively. 
+
+On day 1, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will then look into how to incorporate existing python modules and packages into your programs as well as writing you own modules. At the end of the day, we will introduce Python libraries for data manipulation and analysis.
+
+Day 2 will focus on data visualization in Python, comparing different libraries, from generating static plots with matplotlib and ggplot to interactive graphics with plot.ly. Additionally, we will introduce Biopython, which provides Python libraries for a wide range of bioinformatics problems, and cover visualization of biological data in Biopython.
+
+Note: this course is the continuation of the Introduction to Solving Biological Problems with Python; participants are expected to have attended the introductory Python course and/or have acquired some working knowledge of Python. This course is also open to Python beginners who are already fluent in other programming languages as this will help them to quickly get started in Python.
+
 ## Prerequisites
+Having attended the An Introduction to Solving Biological Problems with Python course and/or have a working knowledge of Python
 
 ## Aims
 During this course you will learn about: 
+- Writing functions
+- Best practice approaches to write reusable code
+- Structuring code in a custom module
+- Using Python libraries
+- Working with biological data using BioPython
 
 ## Learning Objectives
 After this course you should be able to: (There should only be 4-6 objectives)
+- Write reusable Python code, using functions and libraries effectively, and according to best practice guidelines
+- Acquire a working knowledge of key concepts which are prerequisites for advanced programming in Python e.g. writing modules
+
 
 ## Timetable
 
